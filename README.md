@@ -6,7 +6,7 @@
 
 | Item | Description |
 |:----:  | ------------|
-|src| The file with all work| 
+|src| The file with all work in zip files| 
 |Abstract And Interfaces | Worked to make a class with an abstract method and an interface to add data|
 |ArrayList and Jumps|Made an arraylist that can be printed|
 |Big O|Made a class that'll print out a set number of times according to its Big o notation|
