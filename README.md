@@ -4,8 +4,9 @@
 <h3 align="center"> Here's some are work I've done </h3>
 <h3 align="center"> https://github.com/Maxwell-Maglinte/CS121/tree/Files/src </h3>
 
-| Number | Description |
+| Item | Description |
 |:----:  | ------------|
-|scr| The file with all work|
+|src| The file with all work| 
+|Abstrac tAnd Interfaces | Worked to make a class with an abstract method and an interface to add data|
 
 
