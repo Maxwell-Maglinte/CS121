@@ -11,5 +11,5 @@
 |ArrayList and Jumps|Made an arraylist that can be printed|
 |Big O|Made a class that'll print out a set number of times according to its Big o notation|
 |Project 1|Made a battle game|
-|File Activity|Praticed on to create and modify files within Java|
+|File Activity|Praticed how to create and modify files within Java|
 
